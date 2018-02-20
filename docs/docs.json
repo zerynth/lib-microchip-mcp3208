@@ -1,0 +1,11 @@
+{
+    "files": [
+        [
+            "mcp3208",
+            "mcp3208.py"
+        ]
+    ],
+    "title": "mcp3208",
+    "version": "2.0.10",
+    "copyright":"Zerynth Team"
+}
